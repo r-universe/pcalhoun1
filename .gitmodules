@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Exact"]
+	path = Exact
+	url = https://github.com/cran/Exact
+	shallow = true
+	registered = true
+[submodule "MST"]
+	path = MST
+	url = https://github.com/cran/MST
+	shallow = true
+	registered = true
